@@ -2,13 +2,13 @@ about:
   description: "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting."
   license: MIT
   homepage: https://code2prompt.dev
-  head: 97ca430
+  head: 6658513
   archived: false
   latestVersion: "v4.2.0"
-  collectedAt: 2026-09-07T05:36:18Z
+  collectedAt: 2026-09-07T18:50:18Z
 timeline:
   created: 2024-03-09
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2025-12-11
 popularity:
   star: 7632
@@ -22,12 +22,12 @@ language:
   Rust: 535847
   MDX: 470821
   Astro: 33516
-  Handlebars: 19407
+  Handlebars: 19797
   Python: 16514
   JavaScript: 6255
   CSS: 4520
   TypeScript: 682
-totalBytes: 1087562
+totalBytes: 1087952
 recent:
   last30d:
     since: 2026-08-08
@@ -36,7 +36,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 13
+    commit: 15
   last60d:
     since: 2026-07-09
     release: 0
@@ -44,7 +44,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 15
+    commit: 17
   last90d:
     since: 2026-06-09
     release: 0
@@ -52,7 +52,7 @@ recent:
     openPR: 10
     closedIssue: 1
     openIssue: 1
-    commit: 17
+    commit: 19
   last180d:
     since: 2026-03-11
     release: 0
@@ -60,7 +60,7 @@ recent:
     openPR: 10
     closedIssue: 1
     openIssue: 1
-    commit: 63
+    commit: 65
   last360d:
     since: 2025-09-12
     release: 2
@@ -68,7 +68,7 @@ recent:
     openPR: 11
     closedIssue: 10
     openIssue: 1
-    commit: 181
+    commit: 183
   last720d:
     since: 2024-09-17
     release: 3
@@ -76,17 +76,17 @@ recent:
     openPR: 11
     closedIssue: 64
     openIssue: 3
-    commit: 641
+    commit: 644
 total:
   release: 6
   mergedPR: 123
   openPR: 11
   closedIssue: 92
   openIssue: 3
-  commit: 702
+  commit: 705
 ---
 path: /home/runner/.x-repo/github.com/mufeedvh/code2prompt
-collectedAt: 2026-09-07T05:36:19Z
+collectedAt: 2026-09-07T18:50:20Z
 loc:
   Svg:
     code: 15357
@@ -104,10 +104,10 @@ loc:
     blanks: 1715
     files: 2
   Handlebars:
-    code: 533
+    code: 544
     comments: 0
-    blanks: 94
-    files: 15
+    blanks: 96
+    files: 16
   Python:
     code: 407
     comments: 0
@@ -140,24 +140,24 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 1680
-    blanks: 807
-    files: 48
+    comments: 1816
+    blanks: 847
+    files: 49
   Text:
     code: 0
     comments: 34
     blanks: 3
     files: 12
 total:
-  code: 34855
-  comments: 3573
-  blanks: 5364
-  files: 201
+  code: 34866
+  comments: 3709
+  blanks: 5406
+  files: 203
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:36:20+00:00
+  collectedAt: 2026-09-07T18:50:20+00:00
   platform:
     darwin/arm64:
       name:  code2prompt-aarch64-apple-darwin
