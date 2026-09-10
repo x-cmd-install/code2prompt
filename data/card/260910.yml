@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.2.0"
   latestRelease: "v4.2.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:52:32Z
+  collectedAt: 2026-09-10T20:26:13Z
 timeline:
   created: 2024-03-09
   lastCommit: 2026-09-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-12-11
   lastPrerelease: 
 popularity:
-  star: 7639
+  star: 7646
   watcher: 43
   fork: 437
   release: 6
@@ -90,7 +90,7 @@ total:
   commit: 705
 ---
 path: /home/runner/.x-repo/github.com/mufeedvh/code2prompt
-collectedAt: 2026-09-10T05:52:34Z
+collectedAt: 2026-09-10T20:26:15Z
 loc:
   Svg:
     code: 15357
