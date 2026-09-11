@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 16169504,
       "digest": "sha256:23e78b3fca75c898e52b128276e8959e7f9524e7b9aced59521868c38b78e596",
-      "download_count": 113,
+      "download_count": 117,
       "created_at": "2025-12-11T21:02:20Z",
       "updated_at": "2025-12-11T21:02:21Z",
       "browser_download_url": "https://github.com/mufeedvh/code2prompt/releases/download/v4.2.0/code2prompt-aarch64-apple-darwin"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 17294588,
       "digest": "sha256:97f588d80f6bf39ad65b1440bc1c8e8ed125a276f87e3f08c0a62564d56dda57",
-      "download_count": 47,
+      "download_count": 48,
       "created_at": "2025-12-11T21:02:20Z",
       "updated_at": "2025-12-11T21:02:21Z",
       "browser_download_url": "https://github.com/mufeedvh/code2prompt/releases/download/v4.2.0/code2prompt-x86_64-apple-darwin"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 20660712,
       "digest": "sha256:69ff91f6e690de4814f38eb79d1fff5971d5a39bdc82b23ea784dcd450bf965f",
-      "download_count": 1599,
+      "download_count": 1609,
       "created_at": "2025-12-11T21:02:20Z",
       "updated_at": "2025-12-11T21:02:21Z",
       "browser_download_url": "https://github.com/mufeedvh/code2prompt/releases/download/v4.2.0/code2prompt-x86_64-unknown-linux-gnu"
