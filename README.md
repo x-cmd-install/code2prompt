@@ -38,7 +38,7 @@ Total: **34,670** lines of code across **123** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,655 · **Forks**: 436 · **Open issues**: 96 · **Contributors**: 36
+- **Stars**: 7,656 · **Forks**: 436 · **Open issues**: 96 · **Contributors**: 36
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **34,670** lines of code across **123** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 2 | 2 | 0 | 1 | 14 |
-| last60d | 2026-07-17 | 0 | 5 | 2 | 0 | 1 | 16 |
-| 90d | 2026-06-17 | 0 | 7 | 7 | 1 | 1 | 18 |
-| last180d | 2026-03-19 | 0 | 11 | 11 | 1 | 2 | 60 |
-| 360d | 2025-09-20 | 1 | 47 | 12 | 9 | 2 | 173 |
-| last720d | 2024-09-25 | 3 | 108 | 12 | 63 | 4 | 641 |
+| 30d | 2026-08-17 | 0 | 2 | 2 | 0 | 1 | 14 |
+| last60d | 2026-07-18 | 0 | 5 | 2 | 0 | 1 | 16 |
+| 90d | 2026-06-18 | 0 | 6 | 7 | 1 | 1 | 18 |
+| last180d | 2026-03-20 | 0 | 11 | 11 | 1 | 2 | 60 |
+| 360d | 2025-09-21 | 1 | 47 | 12 | 9 | 2 | 173 |
+| last720d | 2024-09-26 | 3 | 108 | 12 | 63 | 4 | 641 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for code2prompt lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:06:22Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:02:33Z._
