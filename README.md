@@ -4,7 +4,7 @@
 
 A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 
-[![x-cmd/install — code2prompt Code Quality Monitoring Repo Card](https://repo.x-cmd.io/code2prompt.svg)](https://x-cmd.com/install/code2prompt)
+[![x-cmd/install — code2prompt Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/code2prompt.svg)](https://x-cmd.com/install/code2prompt)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **34,670** lines of code across **123** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,688 · **Forks**: 450 · **Open issues**: 96 · **Contributors**: 36
+- **Stars**: 7,694 · **Forks**: 450 · **Open issues**: 96 · **Contributors**: 36
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **34,670** lines of code across **123** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 2 | 0 | 1 | 14 |
-| last60d | 2026-07-24 | 0 | 3 | 2 | 0 | 1 | 15 |
-| 90d | 2026-06-24 | 0 | 6 | 4 | 1 | 1 | 18 |
-| last180d | 2026-03-26 | 0 | 9 | 11 | 1 | 2 | 59 |
-| 360d | 2025-09-27 | 1 | 44 | 12 | 8 | 2 | 170 |
-| last720d | 2024-10-02 | 3 | 107 | 12 | 63 | 4 | 640 |
+| 30d | 2026-08-24 | 0 | 2 | 2 | 0 | 1 | 14 |
+| last60d | 2026-07-25 | 0 | 3 | 2 | 0 | 1 | 15 |
+| 90d | 2026-06-25 | 0 | 6 | 4 | 1 | 1 | 18 |
+| last180d | 2026-03-27 | 0 | 9 | 11 | 1 | 2 | 59 |
+| 360d | 2025-09-28 | 1 | 44 | 12 | 8 | 2 | 170 |
+| last720d | 2024-10-03 | 3 | 107 | 12 | 63 | 4 | 640 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for code2prompt lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:05:56Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:06:20Z._
