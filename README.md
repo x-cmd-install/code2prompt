@@ -38,22 +38,22 @@ Total: **34,670** lines of code across **123** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,728 · **Forks**: 454 · **Open issues**: 97 · **Contributors**: 36
+- **Stars**: 7,729 · **Forks**: 457 · **Open issues**: 97 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 123 · **Open PRs**: 13 · **Closed issues**: 92 · **Open issues**: 5 · **Commits**: 705
+- **Releases**: 6 · **Merged PRs**: 123 · **Open PRs**: 14 · **Closed issues**: 92 · **Open issues**: 5 · **Commits**: 705
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 0 | 2 | 3 | 0 | 2 | 14 |
-| 90d | 2026-07-24 | 0 | 3 | 3 | 0 | 2 | 15 |
-| last180d | 2026-04-25 | 0 | 7 | 12 | 1 | 3 | 58 |
-| 360d | 2025-10-27 | 1 | 39 | 13 | 7 | 3 | 134 |
-| last720d | 2024-11-01 | 3 | 107 | 13 | 62 | 5 | 640 |
+| 30d | 2026-09-23 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-08-24 | 0 | 2 | 4 | 0 | 2 | 14 |
+| 90d | 2026-07-25 | 0 | 3 | 4 | 0 | 2 | 15 |
+| last180d | 2026-04-26 | 0 | 7 | 13 | 1 | 3 | 58 |
+| 360d | 2025-10-28 | 1 | 39 | 14 | 6 | 3 | 134 |
+| last720d | 2024-11-02 | 3 | 107 | 14 | 62 | 5 | 640 |
 
 ## Release assets
 
@@ -64,6 +64,15 @@ Total: **34,670** lines of code across **123** files in the top 5 languages.
 | [code2prompt-x86_64-pc-windows-msvc.exe](https://github.com/mufeedvh/code2prompt/releases/download/v4.2.0/code2prompt-x86_64-pc-windows-msvc.exe) | 12.2 MiB | `native/win/x64` |
 | [code2prompt-x86_64-unknown-linux-gnu](https://github.com/mufeedvh/code2prompt/releases/download/v4.2.0/code2prompt-x86_64-unknown-linux-gnu) | 19.7 MiB | `native/linux/x64/glibc` |
 
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/code2prompt). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `4.3.0` | ✅ latest |
+| Nix unstable | `4.2.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for code2prompt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `code2prompt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -73,4 +82,4 @@ Install metadata for code2prompt lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:33:40Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:36:32Z._
