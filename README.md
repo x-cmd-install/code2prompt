@@ -14,12 +14,12 @@ x install code2prompt
 
 ## Code insight
 
-Total: **34,670** lines of code across **123** files in the top 5 languages.
+Total: **34,715** lines of code across **123** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 15,357 | 7 | 342 | 23 |
-| Rust | 11,241 | 715 | 1,915 | 73 |
+| Rust | 11,286 | 715 | 1,925 | 73 |
 | Yaml | 6,345 | 0 | 1,715 | 2 |
 | Handlebars | 544 | 0 | 96 | 16 |
 | Python | 407 | 0 | 90 | 9 |
@@ -33,27 +33,27 @@ Total: **34,670** lines of code across **123** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.2.0` (2025-12-11)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-11-03
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 7,746 · **Forks**: 459 · **Open issues**: 97 · **Contributors**: 36
+- **Stars**: 7,747 · **Forks**: 458 · **Open issues**: 97 · **Contributors**: 38
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 123 · **Open PRs**: 14 · **Closed issues**: 92 · **Open issues**: 5 · **Commits**: 705
+- **Releases**: 6 · **Merged PRs**: 126 · **Open PRs**: 11 · **Closed issues**: 92 · **Open issues**: 5 · **Commits**: 712
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-09-04 | 0 | 2 | 4 | 0 | 2 | 0 |
-| 90d | 2026-08-05 | 0 | 3 | 4 | 0 | 2 | 15 |
-| last180d | 2026-05-07 | 0 | 7 | 13 | 1 | 3 | 58 |
-| 360d | 2025-11-08 | 1 | 36 | 14 | 4 | 3 | 127 |
-| last720d | 2024-11-13 | 3 | 107 | 14 | 62 | 5 | 640 |
+| 30d | 2026-10-05 | 0 | 2 | 0 | 0 | 1 | 4 |
+| last60d | 2026-09-05 | 0 | 4 | 1 | 0 | 2 | 4 |
+| 90d | 2026-08-06 | 0 | 6 | 1 | 0 | 2 | 19 |
+| last180d | 2026-05-08 | 0 | 10 | 10 | 1 | 3 | 62 |
+| 360d | 2025-11-09 | 1 | 39 | 11 | 4 | 3 | 131 |
+| last720d | 2024-11-14 | 3 | 110 | 11 | 61 | 5 | 647 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for code2prompt lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:57:40Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:25:26Z._
